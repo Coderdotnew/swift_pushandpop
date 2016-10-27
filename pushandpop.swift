@@ -13,7 +13,6 @@ var nums = [1,2,3,4,5]
 var nums = [1,2,3,4,5]
 
 
-
 // Use an array method that returns the num array without the last item
 
 var nums = [5,10,15,25,30,35,45]
